@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm
+title: What is the algorithm?
 ---
 
 #What is the algorithm?
