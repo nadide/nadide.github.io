@@ -67,6 +67,7 @@ Proteins are synthesized in two steps; transcription and translation.
 ###Step One: Transcription—Making RNA 
 
 __Transcription__ is the process of using DNA as a template (stencil) to synthesize RNA. 
+
 - The enzyme __RNA polymerase__ “reads” the sequence of DNA nitrogenous bases and follows the base-pairing rules between DNA and RNA to build the new RNA molecule.
 - __Promoter sequence__ is a specific sequence of DNA nucleotides that indicates the location of a protein-coding region
 - The __coding strand__ of DNA is the side that serves as a template for the synthesis of RNA. The strand of DNA that is not read directly by the enzymes is the __non-coding strand__.
