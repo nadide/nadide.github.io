@@ -3,7 +3,6 @@ description:
 avatar: /images/profile.jpg
 
 # Flags below are optional
-
 footer-links:
   dribbble:
   email: nadidepasali96@gmail.com 
@@ -11,13 +10,12 @@ footer-links:
   flickr:
   github: nadide
   instagram:
-  linkedin:https://www.linkedin.com/in/nadide-pasali-a90604b6
+  linkedin:
   pinterest:
   rss:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -36,7 +34,6 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
@@ -45,11 +42,9 @@ version: v1.1.0
 sass:
   style: :expanded 
 
-# Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-sitemap 
 
-# Exclude these files from your production _site
 exclude:
     - Gemfile
     - Gemfile.lock
