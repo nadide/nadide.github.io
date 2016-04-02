@@ -3,7 +3,7 @@ layout: post
 title: DNA and RNA
 ---
 
-> _Bioinformatics/Biology Concept_
+_Bioinformatics/Biology Concept_
 
 
 _Notes from "Concepts in Biology_"
