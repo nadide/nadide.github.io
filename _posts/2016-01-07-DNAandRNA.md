@@ -45,7 +45,7 @@ _Notes from "Concepts in Biology_"
 - Although DNA replication is highly accurate, errors and damage do occasionally occur to the DNA helix. However, the pairing arrangement of the nitrogenous bases allows damage on one strand to be corrected by reading the remaining undamaged strand. 
 -  The order of the nitrogenous bases in DNA is the genetic information that codes for proteins.
 
-![replication](http://nadide.github.io/images/ConceptsInBiology/DnaReplication.png)
+![replication](http://nadide.github.io/assets/img/ConceptsInBiology/DnaReplication.png)
 
 
 
@@ -80,7 +80,7 @@ __Transcription__ is the process of using DNA as a template (stencil) to synthes
 - __Messenger RNA (mRNA)__ carries the blueprint for making the necessary protein. 
 - __Transfer RNA (tRNA)__ and __ribosomal RNA (rRNA)__ are used in different ways to read the mRNA and bring the necessary amino acids together for assembly into a protein.
 
-![transcription](http://nadide.github.io/images/ConceptsInBiology/Transcription.png)
+![transcription](http://nadide.github.io/assets/img/ConceptsInBiology/Transcription.png)
 
 
 ###Step Two: Translation—Making Protein 
@@ -137,7 +137,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
 - One advantage of having introns is that it is possible to make several different proteins from the same protein-coding region by using different combinations of exons. 
 - __Alternative splicing__ is the process of selecting which exons will be retained during the normal process of splicing. 
 
-![ExonAndIntron](http://nadide.github.io/images/ConceptsInBiology/Exon&Intron.png)
+![ExonAndIntron](http://nadide.github.io/assets/img/ConceptsInBiology/Exon&Intron.png)
 
 
 ###Epigenetics 
@@ -166,7 +166,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
     - __Silent Mutation __: The shapes and chemical properties of enzymes are determined by the correct sequence of various types of amino acids. Substituting one amino acid for another can create an abnormally functioning protein. 
     - __Nonsense Mutation __: Another type of point mutation, a nonsense mutation, causes a ribosome to stop protein synthesis by introducing a stop codon too early. 
 
-![pointMtutations](http://nadide.github.io/images/ConceptsInBiology/pointMutations.png)
+![pointMtutations](http://nadide.github.io/assets/img/ConceptsInBiology/pointMutations.png)
 
 ###Insertions and Deletions 
 
@@ -175,7 +175,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
 - A __deletion mutation__ removes one or more nucleotides and can potentially remove amino acids from the protein and change its function. 
     - __Frameshift Mutations__: occur when insertions or deletions cause the ribosome to read the wrong sets of three nucleotides. 
 
-    ![frameshift](http://nadide.github.io/images/ConceptsInBiology/frameshift.png)
+    ![frameshift](http://nadide.github.io/assets/img/ConceptsInBiology/frameshift.png)
 
     - __Mutations Caused by Viruses__: Some viruses can insert their genetic code into the DNA of their host organism. When this happens, the presence of the new viral sequence may interfere with the cells’ ability to use genetic information in that immediate area of the insertion.
     
