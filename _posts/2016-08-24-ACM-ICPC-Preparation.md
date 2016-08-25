@@ -39,7 +39,8 @@ The course __requires__:
 
 ##### PS: In the course mostly we used C, C++ and some Java. But still you can follow the curriculum without any prior knowledge of these languages
 
-<a href = "https://github.com/NAU-ACM/ACM-ICPC-Preparation"><img src = "https://github.com/nadide/nadide.github.io/blob/master/assets/img/ACM-ICPC-Curriculum/hereIsTheLink.png" height = "40" ></a>
+[Link of the Project](https://github.com/NAU-ACM/ACM-ICPC-Preparation)
+
 
 ## Topics
 
@@ -140,7 +141,9 @@ Here are the topics we included in this curriculum.
 
 
 ## Curriculum
-<img src = "https://github.com/nadide/nadide.github.io/blob/master/assets/img/ACM-ICPC-Curriculum/curriculum.jpg" width = "90%" >
+
+![Curriculum](https://github.com/nadide/nadide.github.io/blob/master/assets/img/ACM-ICPC-Curriculum/curriculum.jpg)
+
 
 ## Resources
 
@@ -156,5 +159,5 @@ Here are the websites/tools that we use through this course:
 
 
 ### Contributers
-- Mustafa Bedir Tapkan . . . .<a  href = "https://www.linkedin.com/in/bedirtapkan"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
-- Nadide Pasali . . . . . . . . . . <a  href = "https://www.linkedin.com/pub/nadide-pasali/b6/604/a90"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- [Mustafa Bedir Tapkan](https://github.com/BedirT)
+- [Nadide Pasali](https://github.com/nadide)
