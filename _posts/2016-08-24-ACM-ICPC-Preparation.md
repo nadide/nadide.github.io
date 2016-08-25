@@ -39,7 +39,7 @@ The course __requires__:
 
 ##### PS: In the course mostly we used C, C++ and some Java. But still you can follow the curriculum without any prior knowledge of these languages
 
-<a href = "https://github.com/NAU-ACM/ACM-ICPC-Preparation"><img src = "https://github.com/nadide/nadide.github.io/blob/master/assets/img/ACM-ICPC-Curriculum/hereIsTheLink.png" height = "40" ></a>
+<a href = "https://github.com/NAU-ACM/ACM-ICPC-Preparation"><img src = "/assets/img/ACM-ICPC-Curriculum/hereIsTheLink.png" height = "40" ></a>
 
 ## Topics
 
@@ -140,7 +140,7 @@ Here are the topics we included in this curriculum.
 
 
 ## Curriculum
-<img src = "https://github.com/nadide/nadide.github.io/blob/master/assets/img/ACM-ICPC-Curriculum/curriculum.jpg" width = "90%" >
+<img src = "/assets/img/ACM-ICPC-Curriculum/curriculum.jpg" width = "90%" >
 
 ## Resources
 
