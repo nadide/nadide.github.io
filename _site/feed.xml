@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-25T13:30:11-05:00</updated><id>/</id><title>Nadide Pasali</title><subtitle>Moon is a minimal, one column jekyll theme for your blog.</subtitle><entry><title>ACM-ICPC Preparation Project</title><link href="/ACM-ICPC-Preparation/" rel="alternate" type="text/html" title="ACM-ICPC Preparation Project" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>/ACM-ICPC-Preparation</id><content type="html" xml:base="/ACM-ICPC-Preparation/">&lt;p&gt;&lt;img src=&quot;/assets/img/ACM-ICPC-Curriculum/acm_icpc_prep.jpg&quot; alt=&quot;ACM-ICPC&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This GitHub project that one of the ongoing project of &lt;a href=&quot;https://github.com/NAU-ACM&quot;&gt;NAU ACM Chapter&lt;/a&gt; aim to guide people in competitive programming.&lt;/p&gt;
+
+&lt;p&gt;This project developed to learn algorithms for using in competitive programming, &lt;strong&gt;but also can be used for&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Competitive Programming&lt;/li&gt;
+  &lt;li&gt;Practicing for Interviews&lt;/li&gt;
+  &lt;li&gt;Improving Algorithmic Thinking&lt;/li&gt;
+  &lt;li&gt;Practicing for College Class&lt;/li&gt;
+  &lt;li&gt;FUN !!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The project is offering &lt;strong&gt;a week-by-week processing curriculum&lt;/strong&gt; that includes essential data structures and algorithms. 
+Each week has three parts to follow:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sources&lt;/strong&gt; to learn basic of algorithm&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Source codes&lt;/strong&gt; to find out more&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Questions&lt;/strong&gt; to practice it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The project provides collections of good sources about each algorithm. In time, &lt;strong&gt;blog tutorials&lt;/strong&gt; will be added by synthesizing these sources, so you can take advantage of learning in one place.&lt;/p&gt;
+
+&lt;p&gt;The project also provide &lt;strong&gt;different contributors’ codes&lt;/strong&gt;. After you try by your own you can go and see different approaches in same problem.&lt;/p&gt;
+
+&lt;p&gt;The well-developed curriculum is easy to &lt;strong&gt;follow up and learn&lt;/strong&gt;. The only thing you will do is to follow curriculum week-by-week.&lt;/p&gt;
+
+&lt;p&gt;The course &lt;strong&gt;requires&lt;/strong&gt;:
+- To know at least one programming language well.
+- You have to be familiar with some of the basic Data Structures (Array, Stack, Queue, etc.)&lt;/p&gt;
+
+&lt;h5 id=&quot;ps-in-the-course-mostly-we-used-c-c-and-some-java-but-still-you-can-follow-the-curriculum-without-any-prior-knowledge-of-these-languages&quot;&gt;PS: In the course mostly we used C, C++ and some Java. But still you can follow the curriculum without any prior knowledge of these languages&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/NAU-ACM/ACM-ICPC-Preparation&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/ACM-ICPC-Curriculum/hereIsTheLink.png&quot; height=&quot;40&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;p&gt;Here are the topics we included in this curriculum.&lt;/p&gt;
+
+&lt;h4 id=&quot;ds&quot;&gt;DS&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stacks&lt;/li&gt;
+  &lt;li&gt;Queues&lt;/li&gt;
+  &lt;li&gt;Priority queue&lt;/li&gt;
+  &lt;li&gt;Hashmap&lt;/li&gt;
+  &lt;li&gt;Linked List&lt;/li&gt;
+  &lt;li&gt;Trees&lt;/li&gt;
+  &lt;li&gt;Heaps&lt;/li&gt;
+  &lt;li&gt;Advanced Trees
+    &lt;ul&gt;
+      &lt;li&gt;Tries&lt;/li&gt;
+      &lt;li&gt;Segment trees&lt;/li&gt;
+      &lt;li&gt;Fenwick tree or Binary indexed trees&lt;/li&gt;
+      &lt;li&gt;RMQ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SQRT Decomposition&lt;/li&gt;
+  &lt;li&gt;Disjoint Data Structure&lt;/li&gt;
+  &lt;li&gt;C++ STL (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;algo&quot;&gt;Algo&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Number Theory
+    &lt;ul&gt;
+      &lt;li&gt;Prime Numbers (Sieve of Eratosthenes)&lt;/li&gt;
+      &lt;li&gt;GCD and LCM Euclid’s Algorithm&lt;/li&gt;
+      &lt;li&gt;Modular Exponentiation&lt;/li&gt;
+      &lt;li&gt;Long arithmetic (Multi, Add)&lt;/li&gt;
+      &lt;li&gt;Efficient Prime Factorization&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combinatorics(Probability-Combinations-Permutations-Matrix..)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Computational geometry
+    &lt;ul&gt;
+      &lt;li&gt;Primitive Operations
+        &lt;ul&gt;
+          &lt;li&gt;Intuition&lt;/li&gt;
+          &lt;li&gt;Polygon Inside, Outside&lt;/li&gt;
+          &lt;li&gt;Implementing CCW&lt;/li&gt;
+          &lt;li&gt;Immutable Point ADT&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Convex Hull&lt;/li&gt;
+      &lt;li&gt;Closest pair problem&lt;/li&gt;
+      &lt;li&gt;Line intersection&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sorting
+    &lt;ul&gt;
+      &lt;li&gt;QuickSort&lt;/li&gt;
+      &lt;li&gt;Counting Sort&lt;/li&gt;
+      &lt;li&gt;Merge Sort&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Searching
+    &lt;ul&gt;
+      &lt;li&gt;Binary Search&lt;/li&gt;
+      &lt;li&gt;Ternary Search&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Graph Theory
+    &lt;ul&gt;
+      &lt;li&gt;Depth First Search (DFS)&lt;/li&gt;
+      &lt;li&gt;Breadth First Search (BFS)&lt;/li&gt;
+      &lt;li&gt;Dijkstra’s Shortest Path&lt;/li&gt;
+      &lt;li&gt;Minimum Spanning Tree&lt;/li&gt;
+      &lt;li&gt;Ford Bellman&lt;/li&gt;
+      &lt;li&gt;Floyd Warshall&lt;/li&gt;
+      &lt;li&gt;LCA (Lowest Common Ancestor)&lt;/li&gt;
+      &lt;li&gt;Max Flow / Min Cut&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dynamic programming
+    &lt;ul&gt;
+      &lt;li&gt;Knapsack&lt;/li&gt;
+      &lt;li&gt;Matrix chain multiplication&lt;/li&gt;
+      &lt;li&gt;Coin Change&lt;/li&gt;
+      &lt;li&gt;Kadane&lt;/li&gt;
+      &lt;li&gt;Longest increasing Subsequence (with RMQ)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Strings
+    &lt;ul&gt;
+      &lt;li&gt;Z algorithm&lt;/li&gt;
+      &lt;li&gt;Suffix Trees/Arrays&lt;/li&gt;
+      &lt;li&gt;Knuth-Morris-Pratt Algorithm (KMP)&lt;/li&gt;
+      &lt;li&gt;Rabin-Karp Algorithm&lt;/li&gt;
+      &lt;li&gt;Hash&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bit Manipulation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Game theory
+    &lt;ul&gt;
+      &lt;li&gt;Nim game&lt;/li&gt;
+      &lt;li&gt;Grundy numbers&lt;/li&gt;
+      &lt;li&gt;Sprague-Grundy theorem&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Optional Advanced Algorithms&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;AVL Trees&lt;/li&gt;
+      &lt;li&gt;Graph Coloring&lt;/li&gt;
+      &lt;li&gt;Mo’s Algorithm&lt;/li&gt;
+      &lt;li&gt;Palindromic Tree&lt;/li&gt;
+      &lt;li&gt;Heavy Light Decomposition&lt;/li&gt;
+      &lt;li&gt;Dynamic Programming by Profile&lt;/li&gt;
+      &lt;li&gt;Rod Cutting&lt;/li&gt;
+      &lt;li&gt;Topological Sorting&lt;/li&gt;
+      &lt;li&gt;DP with Bitmask - Dynamic Programming&lt;/li&gt;
+      &lt;li&gt;Diobhantine Equation - Math&lt;/li&gt;
+      &lt;li&gt;Flood Fill - Graph&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;curriculum&quot;&gt;Curriculum&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/ACM-ICPC-Curriculum/curriculum.jpg&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+
+&lt;p&gt;Here are the websites/tools that we use through this course:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode.com&quot;&gt;Leetcode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.spoj.com&quot;&gt;Spoj&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com/domains&quot;&gt;Hackerrank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.topcoder.com&quot;&gt;Topcoder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codeforces.com&quot;&gt;Codeforces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lightoj.com&quot;&gt;Lightoj&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://acm.timus.ru&quot;&gt;ACM-Timus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;contributers&quot;&gt;Contributers&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mustafa Bedir Tapkan . . . .&lt;a href=&quot;https://www.linkedin.com/in/bedirtapkan&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png&quot; height=&quot;21&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/BedirT&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png&quot; height=&quot;20&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nadide Pasali . . . . . . . . . . &lt;a href=&quot;https://www.linkedin.com/pub/nadide-pasali/b6/604/a90&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png&quot; height=&quot;21&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/nadide&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png&quot; height=&quot;20&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><summary></summary></entry><entry><title>DNA and RNA</title><link href="/DNAandRNA/" rel="alternate" type="text/html" title="DNA and RNA" /><published>2016-01-07T00:00:00-06:00</published><updated>2016-01-07T00:00:00-06:00</updated><id>/DNAandRNA</id><content type="html" xml:base="/DNAandRNA/">&lt;p&gt;&lt;em&gt;Bioinformatics/Biology Concept&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Notes from “Concepts in Biology&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;##1. DNA and the Importance of Proteins&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nucleic acids play a significant role in nature.&lt;/li&gt;
+  &lt;li&gt;All organisms use nucleic acids as their genetic material to:
+    &lt;ol&gt;
+      &lt;li&gt;store information that determines the characteristics of cells and organisms&lt;/li&gt;
+      &lt;li&gt;direct the synthesis of proteins essential to the operation of the cell or organism&lt;/li&gt;
+      &lt;li&gt;chemically change (mutate) genetic characteristics that are transmitted to future generations&lt;/li&gt;
+      &lt;li&gt;replicate prior to reproduction by directing the manufacture of copies of itself&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##2. DNA Structure and Function&lt;/p&gt;
+
+&lt;p&gt;###DNA Structure 
+- &lt;strong&gt;Nucleic acids&lt;/strong&gt; compose of nucleotide 
+- &lt;strong&gt;Nucleotides&lt;/strong&gt; composed of a sugar molecule, a phosphate group, and nitrogenous base. 
+- Specific sugar = deoxyribose
+- Nitrogenous bases = adenine(A), guanine(G), cytosine(C), and thymine(T)
+- Two paired strands that formed as a double helix
+- &lt;strong&gt;Base-pair rule&lt;/strong&gt;: nitrogenous bases match up with certain other nucleotides on the opposing strand (A-T, G-C)
+- Two strands run in opposite directions (one ends with 3′, the three-prime strand; the other is the 5′, five-prime strand).&lt;/p&gt;
+
+&lt;p&gt;###Base Pairing in DNA Replication&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DNA replication&lt;/strong&gt; is the process by which a cell makes copies of its DNA. 
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The general process of DNA replication involves several steps.
+    &lt;ol&gt;
+      &lt;li&gt;DNA replication begins as enzymes, called &lt;strong&gt;helicases&lt;/strong&gt;, attach to the DNA and separate the two strands. This forms a replication bubble.&lt;/li&gt;
+      &lt;li&gt;As helicases separate the two DNA strands, another enzyme, &lt;strong&gt;DNA polymerase&lt;/strong&gt; helps attach new, incoming DNA nucleotides one at a time onto the surface of the exposed strands. Nucleotides enter each position according to base-pairing rules.&lt;/li&gt;
+      &lt;li&gt;In prokaryotic cells, this process starts at only one place along the cell’s DNA molecule. This place is called the origin of replication. In eukaryotic cells, the replication process starts at the same time in several different places along the DNA molecule. As the points of DNA replication meet each other, they combine and a new strand of DNA is formed. The result is two identical, double-stranded DNA molecules.
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When an incorrect match is detected, &lt;em&gt;DNA polymerase&lt;/em&gt; removes the incorrect nucleotide and replaces it.&lt;/li&gt;
+  &lt;li&gt;Although DNA replication is highly accurate, errors and damage do occasionally occur to the DNA helix. However, the pairing arrangement of the nitrogenous bases allows damage on one strand to be corrected by reading the remaining undamaged strand.&lt;/li&gt;
+  &lt;li&gt;The order of the nitrogenous bases in DNA is the genetic information that codes for proteins.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nadide.github.io/assets/img/ConceptsInBiology/DnaReplication.png&quot; alt=&quot;replication&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;##3. RNA Structure and Function&lt;/p&gt;
+
+&lt;p&gt;Ribonucleic acid (RNA) is another type of nucleic acid and is important in protein production.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Specific sugar = ribose&lt;/li&gt;
+  &lt;li&gt;Ribose has an —OH group and deoxyribose has an —H group on the second carbon.&lt;/li&gt;
+  &lt;li&gt;Nitrogenous bases = adenine(A), guanine(G), cytosine(C), and urasil(U)&lt;/li&gt;
+  &lt;li&gt;RNA is synthesized from DNA, it exists only as a single strand.&lt;/li&gt;
+  &lt;li&gt;DNA is found in the cell’s nucleus and is the original source for information to make proteins.&lt;/li&gt;
+  &lt;li&gt;RNA is made in the nucleus and then moves into the cytoplasm of the cell where it becomes directly involved in the process of protein assembly.&lt;/li&gt;
+  &lt;li&gt;RNA synthesis also follows base-pairing rules.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##4. Protein Synthesis&lt;/p&gt;
+
+&lt;p&gt;Proteins are synthesized in two steps; transcription and translation.&lt;/p&gt;
+
+&lt;p&gt;###Step One: Transcription—Making RNA&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transcription&lt;/strong&gt; is the process of using DNA as a template (stencil) to synthesize RNA.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The enzyme &lt;strong&gt;RNA polymerase&lt;/strong&gt; “reads” the sequence of DNA nitrogenous bases and follows the base-pairing rules between DNA and RNA to build the new RNA molecule.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Promoter sequence&lt;/strong&gt; is a specific sequence of DNA nucleotides that indicates the location of a protein-coding region&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;coding strand&lt;/strong&gt; of DNA is the side that serves as a template for the synthesis of RNA. The strand of DNA that is not read directly by the enzymes is the &lt;strong&gt;non-coding strand&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Termination sequence&lt;/strong&gt; is a DNA nucleotide sequences that indicate when RNA polymerase should finish making an RNA molecule.&lt;/li&gt;
+  &lt;li&gt;There are three types we will focus on are messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA).&lt;/li&gt;
+  &lt;li&gt;Each type of RNA is  assembled in the nucleus from combinations of the same 4 nucleotides. However, each type of RNA has a distinct function in the process of protein synthesis.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Messenger RNA (mRNA)&lt;/strong&gt; carries the blueprint for making the necessary protein.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Transfer RNA (tRNA)&lt;/strong&gt; and &lt;strong&gt;ribosomal RNA (rRNA)&lt;/strong&gt; are used in different ways to read the mRNA and bring the necessary amino acids together for assembly into a protein.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nadide.github.io/assets/img/ConceptsInBiology/Transcription.png&quot; alt=&quot;transcription&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Step Two: Translation—Making Protein&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Translation&lt;/strong&gt; is the process of using the information in RNA to direct protein synthesis by attaching amino acids to one another.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;strong&gt;codon&lt;/strong&gt; is a set of three nucleotides that codes for the placement of a specific amino acid.&lt;/li&gt;
+  &lt;li&gt;Each codon combination has corresponding amino acid.&lt;/li&gt;
+  &lt;li&gt;There are 64 possible codons and only 20 commonly used amino acids, so there are multiple ways to code for many amino acids.&lt;/li&gt;
+  &lt;li&gt;A ribosome is made of proteins and a type of RNA called &lt;strong&gt;ribosomal RNA (rRNA)&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Ribosome has two subunit, large and small.&lt;/li&gt;
+  &lt;li&gt;During translation, the two subunits combine and hold the mRNA between them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The process of translation can be broken down into three basic steps:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Initiation&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The small ribosomal subunit moves along the mRNA and stops at the first AUG codon on the length of the RNA.&lt;/li&gt;
+      &lt;li&gt;This AUG codon is where translation begins. At the first AUG codon, the first amino acid (methionine, or MET) is positioned on the mRNA.&lt;/li&gt;
+      &lt;li&gt;Amino acids are taken to the mRNA-ribosome complex by transfer RNA. The portion of the tRNA that interacts with mRNA is called the anticodon.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Elongation&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A ribosome is like an assembly line that organizes the steps of a complicated assembly process.&lt;/li&gt;
+      &lt;li&gt;For each new amino acid, a new tRNA arrives at the ribosome with its particular amino acid. The ribosome adds the new amino acid to the growing protein.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Termination&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The ribosome will continue to add one amino acid after another to the growing protein unless it encounters a stop signal.&lt;/li&gt;
+      &lt;li&gt;The stop codon can be either UAA, UAG, or UGA.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###The Nearly Universal Genetic Code&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The code for making protein from DNA is the same for nearly all cells (bacteria, archaea, algae, protozoa, plants, fungi and animals).&lt;/li&gt;
+  &lt;li&gt;In eukaryotic cells, transcription always occurs in the nucleus, and translation always occurs in the cytoplasm.&lt;/li&gt;
+  &lt;li&gt;Not all genetic information flows from DNA to RNA to proteins. Some viruses use RNA to store their genetic information. These viruses are called retroviruses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##5. The Control of Protein Synthesis&lt;/p&gt;
+
+&lt;p&gt;Cells use many ways to control gene expression in response to environmental conditions. Some methods help increase or decrease the amount of enzyme that is made by the cell. Other methods help change amino acid sequences to form a new version of the enzyme.&lt;/p&gt;
+
+&lt;p&gt;###Controlling Protein Quantity&lt;/p&gt;
+
+&lt;p&gt;A cell process can be regulated by controlling how much of a specific enzyme is made. The cell regulates the amount of protein (enzymes are proteins) that is made by changing how much mRNA is available for translation into protein.&lt;/p&gt;
+
+&lt;p&gt;###Controlling Protein Quality&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Another way that cells can control gene expression is to change the amino acid sequences to form different versions of an enzyme.&lt;/li&gt;
+  &lt;li&gt;One of the most significant differences between prokaryotic and eukaryotic cells is that eukaryotic cells can make more than one type of protein from a single protein-coding region of the DNA.&lt;/li&gt;
+  &lt;li&gt;The protein-coding regions of eukaryotic genes are organized differently than the genes found in prokaryotic (bacterial) cells. The fundamental difference is that the protein-coding regions in prokaryotes are continuous, whereas eukaryotic protein-coding regions are not.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Introns&lt;/strong&gt;, do not code for proteins.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exons&lt;/strong&gt;, which are used to code for protein.&lt;/li&gt;
+  &lt;li&gt;The introns in the mRNA are cut out and the remaining exons are spliced together, end to end, to create a shorter version of the mRNA. It is this shorter version that is used during translation to produce a protein.&lt;/li&gt;
+  &lt;li&gt;One advantage of having introns is that it is possible to make several different proteins from the same protein-coding region by using different combinations of exons.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative splicing&lt;/strong&gt; is the process of selecting which exons will be retained during the normal process of splicing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nadide.github.io/assets/img/ConceptsInBiology/Exon&amp;amp;Intron.png&quot; alt=&quot;ExonAndIntron&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Epigenetics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Epigenetics&lt;/strong&gt; is the study of changes in gene expression caused by factors other than alterations in a cell’s DNA.&lt;/li&gt;
+  &lt;li&gt;Nongenetic factors that cause a cell’s genes to express themselves differently.&lt;/li&gt;
+  &lt;li&gt;When an epigenetic change occurs, it might last for the life of the cell and can even be passed on to the next generation.&lt;/li&gt;
+  &lt;li&gt;Stem cells are called pluripotent because they have the potential to be any kind of cell found in the body.&lt;/li&gt;
+  &lt;li&gt;However, once they become differentiated they lose the ability to become other kinds of cells, and so do the cells they produce by cell division.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##6. Mutations and Protein Synthesis&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;strong&gt;mutation&lt;/strong&gt; is any change in the DNA sequence of an organism.&lt;/li&gt;
+  &lt;li&gt;They can occur for many reasons, including errors during DNA replication. Mutations can also be caused by external factors, such as radiation, carcinogens, drugs, or even some viruses.&lt;/li&gt;
+  &lt;li&gt;Not all mutations cause a change in an organism, as a mutation occurs away from the protein-coding sequence and the DNA sequences that regulate its expression.&lt;/li&gt;
+  &lt;li&gt;Scientists are not yet able to consistently predict the effects that a mutation will have on the entire organism.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###Point Mutations&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;strong&gt;point mutation&lt;/strong&gt; is a change in a single nucleotide of the DNA sequence. Point mutations can potentially have a variety of effects even though they change only one nucleotide.&lt;/li&gt;
+  &lt;li&gt;Three different kinds of point mutations are recognized:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Missense Mutation&lt;/strong&gt;: A missense mutation is a point mutation that causes the wrong amino acid to be used in making a protein.The shapes and chemical properties of enzymes are determined by the correct sequence of various types of amino acids. Substituting one amino acid for another can create an abnormally functioning protein.&lt;/li&gt;
+      &lt;li&gt;__Silent Mutation __: The shapes and chemical properties of enzymes are determined by the correct sequence of various types of amino acids. Substituting one amino acid for another can create an abnormally functioning protein.&lt;/li&gt;
+      &lt;li&gt;__Nonsense Mutation __: Another type of point mutation, a nonsense mutation, causes a ribosome to stop protein synthesis by introducing a stop codon too early.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nadide.github.io/assets/img/ConceptsInBiology/pointMutations.png&quot; alt=&quot;pointMtutations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Insertions and Deletions&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Insertions and deletions are different from point mutations because they change the DNA sequence by adding and removing nucleotides.&lt;/li&gt;
+  &lt;li&gt;An &lt;strong&gt;insertion mutation&lt;/strong&gt; adds one or more nucleotides to the normal DNA sequence. This type of mutation can potentially add amino acids to the protein and change its function.&lt;/li&gt;
+  &lt;li&gt;A &lt;strong&gt;deletion mutation&lt;/strong&gt; removes one or more nucleotides and can potentially remove amino acids from the protein and change its function.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Frameshift Mutations&lt;/strong&gt;: occur when insertions or deletions cause the ribosome to read the wrong sets of three nucleotides.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://nadide.github.io/assets/img/ConceptsInBiology/frameshift.png&quot; alt=&quot;frameshift&quot; /&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Mutations Caused by Viruses&lt;/strong&gt;: Some viruses can insert their genetic code into the DNA of their host organism. When this happens, the presence of the new viral sequence may interfere with the cells’ ability to use genetic information in that immediate area of the insertion.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###Chromosomal Aberrations&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;chromosomal aberration&lt;/strong&gt; is a major change in DNA that can be observed at the level of the chromosome.&lt;/p&gt;
+
+&lt;p&gt;There are four types of aberrations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An &lt;strong&gt;inversion&lt;/strong&gt; occurs when a chromosome is broken and a piece becomes reattached to its original chromosome, but in a flipped orientation.&lt;/li&gt;
+  &lt;li&gt;A &lt;strong&gt;translocation&lt;/strong&gt; occurs when one broken segment of DNA becomes integrated into a different chromosome.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Duplications&lt;/strong&gt; occur when a portion of a chromosome is replicated and attached to the original section in sequence.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deletion&lt;/strong&gt; aberrations result when a broken piece becomes lost or is destroyed before it can be reattached. All of these aberrations are considered mutations. Because of the large segments of DNA that are involved with these types of mutations, many genes can be affected.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###Mutations and Inheritance&lt;/p&gt;
+
+&lt;p&gt;Mutations can be harmful to the individual who first gains the mutation, but changes in the structure of DNA may also have harmful effects on the next generation if they occur in the sex cells.&lt;/p&gt;</content><summary>Bioinformatics/Biology Concept</summary></entry><entry><title>What is the Algorithm?</title><link href="/Algorithm/" rel="alternate" type="text/html" title="What is the Algorithm?" /><published>2015-05-01T00:00:00-05:00</published><updated>2015-05-01T00:00:00-05:00</updated><id>/Algorithm</id><content type="html" xml:base="/Algorithm/">&lt;p&gt;&lt;em&gt;Computer Science/Algorithms Concept&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Algorithm&lt;/em&gt; is an answer to “how to do it?” . Whatever you want, you can say as a task instand of ‘it’. Algorithm defines any kind of steps for performing task. You have a algorithm for cooking egg even you don’t know, and certainly more detailed than “Take egg and cook it.” If you ever code something, imagination is getting start to appear in your mind how to describe it with a hundred commands. Actually, computer algorithms based on algorithms that human brain uses on any task.&lt;/p&gt;
+
+&lt;p&gt;If I want to determine factorial, I draw below diagram in my mind.&lt;/p&gt;
+
+&lt;p&gt;This is a basic example of algorithm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.d.umn.edu/~tcolburn/cs1581/lectures/chapter11/assets/img/factorial-flowchart.png&quot; alt=&quot;factorial diagram&quot; title=&quot;factorial&quot; /&gt;&lt;/p&gt;</content><summary>Computer Science/Algorithms Concept</summary></entry></feed>

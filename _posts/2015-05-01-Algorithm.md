@@ -12,4 +12,5 @@ If I want to determine factorial, I draw below diagram in my mind.
 This is a basic example of algorithm. 
 
 ![factorial diagram][id]
-[id]: http://www.d.umn.edu/~tcolburn/cs1581/lectures/chapter11/images/factorial-flowchart.png "factorial"
+
+[id]: http://www.d.umn.edu/~tcolburn/cs1581/lectures/chapter11/assets/img/factorial-flowchart.png "factorial"
