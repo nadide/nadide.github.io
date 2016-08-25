@@ -3,13 +3,15 @@ layout: post
 title: ACM-ICPC Preparation Project
 ---
 
-![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
+![ACM-ICPC](http://nadide.github.io/images/acm_icpc_prep.jpg)
+
 
 ## Introduction
 
 This GitHub project that one of the ongoing project of [NAU ACM Chapter](https://github.com/NAU-ACM) aim to guide people in competitive programming. 
 
 This project developed to learn algorithms for using in competitive programming, __but also can be used for__:
+
 - Competitive Programming
 - Practicing for Interviews
 - Improving Algorithmic Thinking
@@ -18,9 +20,11 @@ This project developed to learn algorithms for using in competitive programming,
  
 The project is offering __a week-by-week processing curriculum__ that includes essential data structures and algorithms. 
 Each week has three parts to follow:
+
 - __Sources__ to learn basic of algorithm
 - __Source codes__ to find out more
-- __Questions __ to practice it 
+- __Questions__ to practice it 
+
 
 The project provides collections of good sources about each algorithm. In time, __blog tutorials__ will be added by synthesizing these sources, so you can take advantage of learning in one place. 
 
@@ -28,10 +32,13 @@ The project also provide __different contributors' codes__. After you try by you
 
 The well-developed curriculum is easy to __follow up and learn__. The only thing you will do is to follow curriculum week-by-week.
 
+
 The course __requires__:
 - To know at least one programming language well.
 - You have to be familiar with some of the basic Data Structures (Array, Stack, Queue, etc.) 
 ###### PS: The course mostly we used C, C++ and some Java. But still you can follow the curriculum without any prior knowledge of these languages
+
+\>> [Link of the Project](https://github.com/NAU-ACM/ACM-ICPC-Preparation)  << 
 
 
 ## Topics
