@@ -38,7 +38,6 @@ The course __requires__:
 - You have to be familiar with some of the basic Data Structures (Array, Stack, Queue, etc.) 
 ###### PS: The course mostly we used C, C++ and some Java. But still you can follow the curriculum without any prior knowledge of these languages
 
-![Link of the Project]()
 <a href = "https://github.com/NAU-ACM/ACM-ICPC-Preparation"><img src = "https://github.com/BedirT/nadide.github.io/blob/master/images/ACM-ICPC-Curriculum/hereIsTheLink.png" height = "40px"></a>
 
 ## Topics
