@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-25T13:30:11-05:00</updated><id>/</id><title>Nadide Pasali</title><subtitle>Moon is a minimal, one column jekyll theme for your blog.</subtitle><entry><title>ACM-ICPC Preparation Project</title><link href="/ACM-ICPC-Preparation/" rel="alternate" type="text/html" title="ACM-ICPC Preparation Project" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>/ACM-ICPC-Preparation</id><content type="html" xml:base="/ACM-ICPC-Preparation/">&lt;p&gt;&lt;img src=&quot;/assets/img/ACM-ICPC-Curriculum/acm_icpc_prep.jpg&quot; alt=&quot;ACM-ICPC&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-25T18:03:35-05:00</updated><id>/</id><title>Nadide Pasali</title><subtitle>Moon is a minimal, one column jekyll theme for your blog.</subtitle><entry><title>ACM-ICPC Preparation Project</title><link href="/ACM-ICPC-Preparation/" rel="alternate" type="text/html" title="ACM-ICPC Preparation Project" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>/ACM-ICPC-Preparation</id><content type="html" xml:base="/ACM-ICPC-Preparation/">&lt;p&gt;&lt;img src=&quot;/assets/img/ACM-ICPC-Curriculum/acm_icpc_prep.jpg&quot; alt=&quot;ACM-ICPC&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
@@ -35,7 +35,7 @@ Each week has three parts to follow:&lt;/p&gt;
 
 &lt;h5 id=&quot;ps-in-the-course-mostly-we-used-c-c-and-some-java-but-still-you-can-follow-the-curriculum-without-any-prior-knowledge-of-these-languages&quot;&gt;PS: In the course mostly we used C, C++ and some Java. But still you can follow the curriculum without any prior knowledge of these languages&lt;/h5&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/NAU-ACM/ACM-ICPC-Preparation&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/ACM-ICPC-Curriculum/hereIsTheLink.png&quot; height=&quot;40&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/NAU-ACM/ACM-ICPC-Preparation&quot;&gt;Link of the Project&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 
@@ -165,7 +165,8 @@ Each week has three parts to follow:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;curriculum&quot;&gt;Curriculum&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/ACM-ICPC-Curriculum/curriculum.jpg&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ACM-ICPC-Curriculum/curriculumb.jpg&quot; alt=&quot;Curriculum&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
 
@@ -183,8 +184,8 @@ Each week has three parts to follow:&lt;/p&gt;
 
 &lt;h3 id=&quot;contributers&quot;&gt;Contributers&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Mustafa Bedir Tapkan . . . .&lt;a href=&quot;https://www.linkedin.com/in/bedirtapkan&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png&quot; height=&quot;21&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/BedirT&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png&quot; height=&quot;20&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Nadide Pasali . . . . . . . . . . &lt;a href=&quot;https://www.linkedin.com/pub/nadide-pasali/b6/604/a90&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png&quot; height=&quot;21&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/nadide&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png&quot; height=&quot;20&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/BedirT&quot;&gt;Mustafa Bedir Tapkan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nadide&quot;&gt;Nadide Pasali&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><summary></summary></entry><entry><title>DNA and RNA</title><link href="/DNAandRNA/" rel="alternate" type="text/html" title="DNA and RNA" /><published>2016-01-07T00:00:00-06:00</published><updated>2016-01-07T00:00:00-06:00</updated><id>/DNAandRNA</id><content type="html" xml:base="/DNAandRNA/">&lt;p&gt;&lt;em&gt;Bioinformatics/Biology Concept&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Notes from “Concepts in Biology&lt;/em&gt;”&lt;/p&gt;
