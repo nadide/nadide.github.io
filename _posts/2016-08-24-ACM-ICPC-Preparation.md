@@ -142,11 +142,7 @@ Here are the topics we included in this curriculum.
 
 ## Curriculum
 
-<<<<<<< HEAD
-![Curriculum](https://github.com/nadide/nadide.github.io/blob/master/assets/img/ACM-ICPC-Curriculum/curriculum.jpg)
-=======
 ![Curriculum](/assets/img/ACM-ICPC-Curriculum/curriculumb.jpg)
->>>>>>> 92cbfa35b6aa9614681eebb8c952b6892ae4ef94
 
 
 ## Resources

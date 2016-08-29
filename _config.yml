@@ -1,7 +1,7 @@
 # Site
 title:              Nadide Pasali
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Bioinformatics | Data Science | Algorithms | Competitive Programing'
+description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img//profile.jpg'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   nadidepasali
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 email:		     nadidepasali96@gmail.com
-#twitter:            username
+twitter:            nadidepasali
 #facebook:           username
 github:             nadide
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          nadidepasali
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
