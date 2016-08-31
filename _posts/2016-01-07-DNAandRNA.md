@@ -1,12 +1,11 @@
 ---
 layout: post
 title: DNA and RNA
+date: 2016-01-07 12:00
+excerpt: Notes from "Concepts in Biology"
+tags: [Biology]
+comments : true
 ---
-
-_Bioinformatics/Biology Concept_
-
-
-_Notes from "Concepts in Biology_"
 
 
 ##1. DNA and the Importance of Proteins

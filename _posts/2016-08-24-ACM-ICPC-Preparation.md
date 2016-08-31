@@ -1,6 +1,10 @@
 ---
 layout: post
 title: ACM-ICPC Preparation Project
+date: 2016-08-24 12:00
+excerpt: 
+tags: [ACM-ICPC, Competitive Programing, Algorithms]
+comments : true
 ---
 
 ![ACM-ICPC](/assets/img/ACM-ICPC-Curriculum/acm_icpc_prep.jpg)
