@@ -57,8 +57,10 @@ We will start with vertex\_0, and make it our current position. Initial key valu
 ![prim2](http://nadide.github.io/assets/img/MST/prim2.png)
 
 There are listed vertexes that can be reach from vertex_0 and their costs.
+
 - vertex\_1 : 2
 - vertex\_3 : 6
+
 
 At next step, algorithm updates costs of current vertex's neighbors, and assign their parent as current vertex. That means if we make connection from parent value, it will cost as much as key value.  
 
@@ -70,6 +72,7 @@ Then, algorithm adds one of these vertexes which has minimum cost. So, we add cl
 
 
 We will repeat these two steps for each current vertex. Neighbor vertexes of Vertex\_1, and edge weights between vertex\_1:
+
 - vertex\_2 : 3
 - vertex\_3 : 8
 
@@ -77,7 +80,7 @@ There becomes new issue, because vertex\_3 already has values but not added to t
 
 ![prim5](http://nadide.github.io/assets/img/MST/prim5.png)
 
-###### Note: When we are updating neighbors' costs of vertex, we don't consider visited vertexs, and don't add them to tree again.
+##### Note: When we are updating neighbors' costs of vertex, we don't consider visited vertexs, and don't add them to tree again.
 
 
 Then, we will look at all vertexes which is valued, but not added. By comparing vertex\_2 and vertex\_3  we will add and go to closest vertex, which is vertex\_2 with cost _3_. 
@@ -133,9 +136,9 @@ __Step 4__:
     
         for (i=0; i < V-1; ++i) 
         {
-            Step 5;
+            // Step 5;
             
-            Step 6;
+            // Step 6;
         }
         
     
