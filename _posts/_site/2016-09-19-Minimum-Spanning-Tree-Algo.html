@@ -1,3 +1,5 @@
+<p><img src="/assets/img/algo-image/MST/mst-image.png" alt="mst-image" /></p>
+
 <p>Minimum spanning tree problem is find a subset of edges that connects all nodes with minimum cost in weighted graph.</p>
 
 <p>An edge-weighted graph is given as input, and we will select some of edges to create minimum spanning tree. In other word, we will create a sub-graph which is a tree with minimum cost. A single graph can have many different spanning trees, but we aim to find spanning tree with minimum weight. The weight of the spanning tree is sum of the weights of edges that belongs the spanning tree.</p>
@@ -11,7 +13,7 @@
 
 <p>A minimum spanning tree <strong>has (V – 1) edges</strong> where V is the number of vertices in the given graph. Minimum Spanning Tree example:</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/mst.png" alt="mst" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/mst.png" alt="mst" /></p>
 
 <p>There are two solutions that both have <strong>greedy approach</strong>.</p>
 
@@ -30,7 +32,7 @@
 
 <h2 id="prims-algorithms">Prim’s Algorithms</h2>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim.png" alt="prim" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim.png" alt="prim" /></p>
 
 <p><strong>What does algorithm proceed?</strong></p>
 
@@ -38,7 +40,7 @@
 
 <p>Lets go step-by-step according to given graph below.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim1.png" alt="prim1" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim1.png" alt="prim1" /></p>
 
 <p>We have a graph which has 5 vertex (V), and 7 edges (E) as an input. Our goal is to return subset of given edges that belongs the minimum spanning tree.</p>
 
@@ -53,7 +55,7 @@
 
 <p>We will start with vertex_0, and make it our current position. Initial key value for vertex_0 will be <em>0 (zero)</em>, parent will be <em>-1</em>. Because of vertex_0 is root of the tree, parent is <em>-1</em>, and we doesn’t have cost to reach vertex_0, so it is <em>0</em>.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim2.png" alt="prim2" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim2.png" alt="prim2" /></p>
 
 <p>There are listed vertexes that can be reach from vertex_0 and their costs.</p>
 
@@ -64,11 +66,11 @@
 
 <p>At next step, algorithm updates costs of current vertex’s neighbors, and assign their parent as current vertex. That means if we make connection from parent value, it will cost as much as key value.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim3.png" alt="prim3" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim3.png" alt="prim3" /></p>
 
 <p>Then, algorithm adds one of these vertexes which has minimum cost. So, we add closest vertex to tree, and move to it. In our graph, we will add vertex_1 and make our current vertex vertex_1.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim4.png" alt="prim4" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim4.png" alt="prim4" /></p>
 
 <p>We will repeat these two steps for each current vertex. Neighbor vertexes of Vertex_1, and edge weights between vertex_1:</p>
 
@@ -79,18 +81,18 @@
 
 <p>There becomes new issue, because vertex_3 already has values but not added to tree yet. What does means? We found out a possible connection to vertex_3 from another vertex, and now we have another connection to vertex_3 from current. We will compare this two costs, and choose lowest one. Because of existing cost of vertex_3 is less, we are not going to update cost of vertex_3. We will just update vertex_2 as key is 3, parent is 1.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim5.png" alt="prim5" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim5.png" alt="prim5" /></p>
 
 <h5 id="note-when-we-are-updating-neighbors-costs-of-vertex-we-dont-consider-visited-vertexs-and-dont-add-them-to-tree-again">Note: When we are updating neighbors’ costs of vertex, we don’t consider visited vertexs, and don’t add them to tree again.</h5>
 
 <p>Then, we will look at all vertexes which is valued, but not added. By comparing vertex_2 and vertex_3  we will add and go to closest vertex, which is vertex_2 with cost <em>3</em>.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim6.png" alt="prim6" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim6.png" alt="prim6" /></p>
 
 <p>Algorithm repeats these two steps until all vertexes are added to tree. 
 These repeating steps are illustrated in below pictured.</p>
 
-<p><img src="http://nadide.github.io/assets/img/MST/prim7.png" alt="prim7" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/prim7.png" alt="prim7" /></p>
 
 <p>After add all vertexes, algorithms will end and will print (V - 1) edges that belongs tree.</p>
 
@@ -182,7 +184,7 @@ These repeating steps are illustrated in below pictured.</p>
 
 <h2 id="kruskals-algorithms">Kruskal’s Algorithms</h2>
 
-<p><img src="http://nadide.github.io/assets/img/MST/kruskal.png" alt="kruskal" /></p>
+<p><img src="http://nadide.github.io/assets/img/algo-image/MST/kruskal.png" alt="kruskal" /></p>
 
 <p>Explanation will be added later.</p>
 

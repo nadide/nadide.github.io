@@ -7,7 +7,7 @@ tags: [ACM-ICPC, Competitive Programming, Algorithms]
 comments : true
 ---
 
-![modExpo](/assets/img/algo-image/modExpo/Modular_exponentiation.jpg)
+![modExpo](/assets/img/algo-image/modExpo/mod-expo.jpg)
 
 What is the fastest way to compute a large integer power of a number modulo m?
 
@@ -107,6 +107,7 @@ long long modExpo (int x, int y, int m) {
 ```
 
 
-##### Tip:
+#### Tip:
+
 At most of the competitive programming questions ask to output for large number as modulo $$10^9+7$$. Why?
 You can check [this quora question](https://www.quora.com/What-exactly-is-print-it-modulo-10-9-+-7-in-competitive-programming-websites) for answer.

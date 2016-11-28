@@ -8,7 +8,7 @@ comments : true
 ---
 
 
-##1. DNA and the Importance of Proteins
+## 1. DNA and the Importance of Proteins
 
 - Nucleic acids play a significant role in nature. 
 - All organisms use nucleic acids as their genetic material to:
@@ -19,9 +19,9 @@ comments : true
     
     
     
-##2. DNA Structure and Function 
+## 2. DNA Structure and Function 
 
-###DNA Structure 
+### DNA Structure 
 - __Nucleic acids__ compose of nucleotide 
 - __Nucleotides__ composed of a sugar molecule, a phosphate group, and nitrogenous base. 
 - Specific sugar = deoxyribose
@@ -31,7 +31,7 @@ comments : true
 - Two strands run in opposite directions (one ends with 3′, the three-prime strand; the other is the 5′, five-prime strand).
 
 
-###Base Pairing in DNA Replication 
+### Base Pairing in DNA Replication 
 
 - __DNA replication__ is the process by which a cell makes copies of its DNA. 
 <br>
@@ -48,7 +48,7 @@ comments : true
 
 
 
-##3. RNA Structure and Function 
+## 3. RNA Structure and Function 
 
 Ribonucleic acid (RNA) is another type of nucleic acid and is important in protein production. 
 
@@ -62,11 +62,11 @@ Ribonucleic acid (RNA) is another type of nucleic acid and is important in prote
 
 
 
-##4. Protein Synthesis 
+## 4. Protein Synthesis 
 
 Proteins are synthesized in two steps; transcription and translation.
 
-###Step One: Transcription—Making RNA 
+### Step One: Transcription—Making RNA 
 
 __Transcription__ is the process of using DNA as a template (stencil) to synthesize RNA. 
 
@@ -82,7 +82,7 @@ __Transcription__ is the process of using DNA as a template (stencil) to synthes
 ![transcription](http://nadide.github.io/assets/img/ConceptsInBiology/Transcription.png)
 
 
-###Step Two: Translation—Making Protein 
+### Step Two: Translation—Making Protein 
 
 __Translation__ is the process of using the information in RNA to direct protein synthesis by attaching amino acids to one another.
 
@@ -107,7 +107,7 @@ The process of translation can be broken down into three basic steps:
     - The stop codon can be either UAA, UAG, or UGA.
 
 
-###The Nearly Universal Genetic Code 
+### The Nearly Universal Genetic Code 
 
 - The code for making protein from DNA is the same for nearly all cells (bacteria, archaea, algae, protozoa, plants, fungi and animals).
 - In eukaryotic cells, transcription always occurs in the nucleus, and translation always occurs in the cytoplasm.
@@ -115,17 +115,17 @@ The process of translation can be broken down into three basic steps:
 
 
 
-##5. The Control of Protein Synthesis 
+## 5. The Control of Protein Synthesis 
 
 Cells use many ways to control gene expression in response to environmental conditions. Some methods help increase or decrease the amount of enzyme that is made by the cell. Other methods help change amino acid sequences to form a new version of the enzyme. 
 
 
-###Controlling Protein Quantity 
+### Controlling Protein Quantity 
 
 A cell process can be regulated by controlling how much of a specific enzyme is made. The cell regulates the amount of protein (enzymes are proteins) that is made by changing how much mRNA is available for translation into protein.
 
 
-###Controlling Protein Quality 
+### Controlling Protein Quality 
 
 - Another way that cells can control gene expression is to change the amino acid sequences to form different versions of an enzyme.
 - One of the most significant differences between prokaryotic and eukaryotic cells is that eukaryotic cells can make more than one type of protein from a single protein-coding region of the DNA.
@@ -139,7 +139,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
 ![ExonAndIntron](http://nadide.github.io/assets/img/ConceptsInBiology/Exon&Intron.png)
 
 
-###Epigenetics 
+### Epigenetics 
 
 - __Epigenetics__ is the study of changes in gene expression caused by factors other than alterations in a cell’s DNA. 
 - Nongenetic factors that cause a cell’s genes to express themselves differently.
@@ -149,7 +149,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
 
 
 
-##6. Mutations and Protein Synthesis 
+## 6. Mutations and Protein Synthesis 
 
 - A __mutation__ is any change in the DNA sequence of an organism.
 - They can occur for many reasons, including errors during DNA replication. Mutations can also be caused by external factors, such as radiation, carcinogens, drugs, or even some viruses.
@@ -157,7 +157,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
 - Scientists are not yet able to consistently predict the effects that a mutation will have on the entire organism. 
 
 
-###Point Mutations 
+### Point Mutations 
 
 - A __point mutation__ is a change in a single nucleotide of the DNA sequence. Point mutations can potentially have a variety of effects even though they change only one nucleotide.
 - Three different kinds of point mutations are recognized:
@@ -167,7 +167,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
 
 ![pointMtutations](http://nadide.github.io/assets/img/ConceptsInBiology/pointMutations.png)
 
-###Insertions and Deletions 
+### Insertions and Deletions 
 
 - Insertions and deletions are different from point mutations because they change the DNA sequence by adding and removing nucleotides. 
 - An __insertion mutation__ adds one or more nucleotides to the normal DNA sequence. This type of mutation can potentially add amino acids to the protein and change its function. 
@@ -179,7 +179,7 @@ A cell process can be regulated by controlling how much of a specific enzyme is 
     - __Mutations Caused by Viruses__: Some viruses can insert their genetic code into the DNA of their host organism. When this happens, the presence of the new viral sequence may interfere with the cells’ ability to use genetic information in that immediate area of the insertion.
     
 
-###Chromosomal Aberrations
+### Chromosomal Aberrations
 
 A __chromosomal aberration__ is a major change in DNA that can be observed at the level of the chromosome.
 
@@ -191,6 +191,6 @@ There are four types of aberrations:
 - __Deletion__ aberrations result when a broken piece becomes lost or is destroyed before it can be reattached. All of these aberrations are considered mutations. Because of the large segments of DNA that are involved with these types of mutations, many genes can be affected. 
 
 
-###Mutations and Inheritance 
+### Mutations and Inheritance 
 
 Mutations can be harmful to the individual who first gains the mutation, but changes in the structure of DNA may also have harmful effects on the next generation if they occur in the sex cells. 
