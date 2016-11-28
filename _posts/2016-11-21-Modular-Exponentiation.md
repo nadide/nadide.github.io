@@ -33,14 +33,7 @@ We can reduce time complexity to $$O(\log_2{y})$$ by using what is called as exp
 
 Basic idea of exponentiation by squaring is
 
-$$ 
-Power(x,n) =
-\begin{cases}
-1                               & \quad \text{if } n \text{ is 0}\\
-Power (x^2, n/2)                & \quad \text{if } n \text{ is even}\\
-x \cdot Power(x^2, (n-1)/2)     & \quad \text{if } n \text{ is odd}\\
-\end{cases}
-$$
+$$ Power(x,n) = \begin{cases} 1 & \quad \text{if } n \text{ is 0}\\ Power (x^2, n/2) \quad \text{if } n \text{ is even}\\ x \cdot Power(x^2, (n-1)/2) & \quad \text{if } n \text{ is odd}\\ \end{cases} $$
 
 If power is 0, algorithm should return 1. It is the base case, other cases will built on it.  
 
