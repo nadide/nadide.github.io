@@ -2,10 +2,12 @@
 layout: post
 title: Modular Exponentiation
 date: 2016-11-20 12:00
-excerpt: 
+excerpt: What is the fastest way to compute a large integer power of a number modulo m?
 tags: [ACM-ICPC, Competitive Programming, Algorithms]
 comments : true
 ---
+
+![modExpo](/assets/img/algo-image/modExpo/Modular_exponentiation.jpg)
 
 What is the fastest way to compute a large integer power of a number modulo m?
 
@@ -33,7 +35,7 @@ We can reduce time complexity to $$O(\log_2{y})$$ by using what is called as exp
 
 Basic idea of exponentiation by squaring is
 
-![expo-by-square](/assets/img/modExpo/expo-by-square.png)
+![expo-by-square](/assets/img/algo-image/modExpo/expo-by-square.png)
 
 
 If power is 0, algorithm should return 1. It is the base case, other cases will built on it.  

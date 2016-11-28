@@ -7,7 +7,7 @@ tags: [ACM-ICPC, Competitive Programing, Algorithms]
 comments : true
 ---
 
-![ACM-ICPC](/assets/img/ACM-ICPC-Curriculum/acm_icpc_prep.jpg)
+![ACM-ICPC](/assets/img/algo-image/ACM-ICPC-Curriculum/acm_icpc_prep.jpg)
 
 
 ## Introduction
@@ -146,7 +146,7 @@ Here are the topics we included in this curriculum.
 
 ## Curriculum
 
-![Curriculum](/assets/img/ACM-ICPC-Curriculum/curriculumb.jpg)
+![Curriculum](/assets/img/algo-image/ACM-ICPC-Curriculum/curriculumb.jpg)
 
 
 ## Resources
