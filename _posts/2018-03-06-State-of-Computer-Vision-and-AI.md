@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The state of Computer Vision and AI
-date: 2015-05-01 12:00
+date: 2018-03-06 12:00
 excerpt: Are we really, really far away?
-tags: [Algorithms]
+tags: [AI]
 comments : true
 ---
 

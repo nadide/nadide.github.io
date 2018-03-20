@@ -1,4 +1,11 @@
-# Anomaly Detection
+---
+layout: post
+title: Anormally Detection
+date: 2018-01-27 12:00
+excerpt: 
+tags: [AI]
+comments : true
+---
 
 [LINK](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/anomaly-detection)
 
